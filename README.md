@@ -68,5 +68,5 @@ Alternatively, you can also use PyCharm to run the code and run the ".py" file i
 
 # ScreenShots
 
-Teach-a-Neural-Network-to-Read-Handwriting/Code Output.PNG
+[(Teach-a-Neural-Network-to-Read-Handwriting/Code Output.PNG )]
 
