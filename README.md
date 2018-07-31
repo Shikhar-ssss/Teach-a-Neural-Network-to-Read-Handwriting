@@ -67,6 +67,9 @@ Alternatively, you can also use PyCharm to run the code and run the ".py" file i
 5)implies solid knowledge of math.
 
 # ScreenShots
+They are present above in files named as follow->
 
-![] (Teach-a-Neural-Network-to-Read-Handwriting/Eckovation project/Graphical Result.PNG)
+1) Graphical Result.PNG)
+2) Code Output.PNG
 
+# NOTE -> AS the SIZE OF FILE OF MNIST FILE WAS BIG SO CANNOT NE UPLOADED HERE. PLEASE DOWNLOAD IT FROM THE GIVEN LINK ABOVE.
