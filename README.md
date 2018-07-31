@@ -1,5 +1,5 @@
 # Teach-a-Neural-Network-to-Read-Handwriting
-# __ABSTRACT __
+# ABSTRACT 
 
 I have created a Handwritten digit recognition using Machine Learning. Neural networks and deep learning are two success stories in modern artificial intelligence. They’ve led to major advances in image recognition, automatic text generation, and even in self-driving cars. To get involved with this exciting field, you should start with a manageable dataset. The **MNIST Handwritten Digit Classification Challenge** is the classic entry point. Image data is generally harder to work with than “flat” relational data. The MNIST data is beginner-friendly and is small enough to fit on one computer. Handwriting recognition doesn’t need high computational power.
 
@@ -67,4 +67,6 @@ Alternatively, you can also use PyCharm to run the code and run the ".py" file i
 5)implies solid knowledge of math.
 
 # ScreenShots
+
+Teach-a-Neural-Network-to-Read-Handwriting/Code Output.PNG
 
